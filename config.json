@@ -1,0 +1,7 @@
+{
+    "ViewGraph_hotkey": "0xA0",
+    "base_delay": 0.01,
+    "screenMS_delay": 24,
+    "FindBroken_pixel": 46,
+    "always_enabled": false
+}
